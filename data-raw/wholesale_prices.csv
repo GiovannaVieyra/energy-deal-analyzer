@@ -1,0 +1,7 @@
+hub,region,price_2022,price_2023,price_2024,price_2025_forecast,interconnection_wait_years,renewable_pct_2024
+ERCOT,Texas,57.8,43.2,31.5,33.0,2.5,32
+PJM,Mid-Atlantic,72.4,55.8,44.2,47.0,7.0,22
+MISO,Midwest,59.1,43.7,33.8,36.0,5.5,18
+CAISO,California,91.3,68.9,53.1,58.0,6.0,61
+ISO-NE,New England,80.2,62.1,56.4,61.0,4.0,38
+NYISO,New York,71.4,54.3,47.8,51.0,4.5,34

@@ -1,0 +1,8 @@
+year,buyer,technology,capacity_mw,deal_type,term_years,market,notes
+2023,Microsoft,Nuclear,835,PPA,20.0,PJM,Restart of Three Mile Island Unit 1
+2024,Microsoft,Wind/Solar,10500,PPA,15.0,US+EU,Largest corporate renewable PPA at signing
+2024,Amazon,Nuclear,960,PPA,20.0,PJM,Co-location at Susquehanna nuclear plant PA
+2025,Meta,Nuclear,2600,PPA,20.0,PJM,Perry Davis-Besse Beaver Valley plants
+2025,Google,Nuclear (SMR),1155,PPA,,Multiple,First SMR corporate PPA
+2026,Google,Solar,1000,PPA,20.0,ERCOT,First gigawatt-scale single solar PPA
+2026,Meta,Nuclear,2600,PPA,20.0,PJM,Zero-carbon baseload for AI workloads

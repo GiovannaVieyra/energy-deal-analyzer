@@ -1,0 +1,12 @@
+metric,value,unit,source
+Revenue per MW per year - AI datacenter,11.0,M USD/MW/yr,EIA / industry reports 2025
+Revenue per MW per year - standard datacenter,4.5,M USD/MW/yr,EIA 2024
+Energy cost as % of opex,30.0,%,BloombergNEF 2025
+Typical PPA term,15.0,years,BNEF Corporate PPA Market 2024
+Interconnection wait - PJM/MISO,8.5,years,FERC/PJM queue data 2025
+Interconnection wait - ERCOT,2.5,years,ERCOT 2025
+Average corporate PPA price 2024,52.0,USD/MWh,LevelTen Energy Q4 2024
+Average utility rate large industrial 2024,68.0,USD/MWh,EIA Electric Power Monthly 2024
+Solar LCOE 2024,31.0,USD/MWh,NREL ATB 2024
+Wind LCOE 2024,30.0,USD/MWh,NREL ATB 2024
+Nuclear LCOE 2024,89.0,USD/MWh,NREL ATB 2024

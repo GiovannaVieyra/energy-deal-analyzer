@@ -1,0 +1,21 @@
+state,technology,capacity_gw,lcoe_min,lcoe_max
+CA,Solar PV,42.1,24,38
+TX,Solar PV,25.8,27,42
+FL,Solar PV,16.4,28,41
+AZ,Solar PV,12.7,22,35
+NV,Solar PV,9.8,23,36
+NC,Solar PV,9.2,29,44
+GA,Solar PV,7.1,30,45
+NJ,Solar PV,6.8,35,52
+VA,Solar PV,6.4,31,47
+NY,Solar PV,5.9,36,53
+TX,Wind,43.2,26,35
+IA,Wind,12.8,25,34
+OK,Wind,12.1,24,33
+KS,Wind,9.3,24,33
+CA,Wind,7.2,30,42
+IL,Wind,7.0,27,38
+MN,Wind,6.9,26,37
+CO,Wind,5.8,27,38
+ND,Wind,4.9,24,34
+OR,Wind,4.2,28,39
