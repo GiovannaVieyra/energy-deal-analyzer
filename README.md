@@ -48,6 +48,9 @@ Energy costs represent -30% of data center operating expenses. For AI-focused fa
 | Corporate PPA deals benchmark | Public press releases + EIA reports 2023–2026 |
 | Data center economics | NREL ATB 2024, BloombergNEF 2025, EIA |
 
+![Dashboard Preview](dashboard-preview.png)
+
+🔗 **[View Live Dashboard](https://giovannavieyra.github.io/energy-deal-analyzer/)**
 -----------------------------------------------------------------------
 
 ## Contexto
@@ -93,3 +96,7 @@ Los costos de energía representan aproximadamente el 30% de los gastos operativ
 | Capacidad renovable por estado | EIA Electric Power Annual 2024 |
 | Benchmark de deals corporativos (PPA) | Comunicados públicos + reportes EIA 2023–2026 |
 | Economía de data centers | NREL ATB 2024, BloombergNEF 2025, EIA |
+
+![Dashboard Vista Previa](dashboard-preview.png)
+
+🔗 **[Ver Dashboard](https://giovannavieyra.github.io/energy-deal-analyzer/)**
